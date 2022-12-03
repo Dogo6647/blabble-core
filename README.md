@@ -1,2 +1,3 @@
 # blabble-core
-Blabble's inner guts and ribs, as well as packaging scripts for porting/compiling.
+![alt text](https://raw.githubusercontent.com/Dogo6647/blabble-core/main/docs/logo.png)
+Source code for Blabble, a simple modern IM app.
